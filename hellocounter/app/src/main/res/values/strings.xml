@@ -3,7 +3,7 @@
     <string name="btn_hello">Dire bonjour</string>
 
 
-    <!-- Dire bonjour -->
+    <!-- Formulaire -->
     <string name="label_firstname">Prénom</string>
     <string name="ph_firstname">Entrez votre prénom</string>
     <string name="btn_greet">Dire bonjour</string>
@@ -11,6 +11,8 @@
 
     <!-- Compteur -->
     <string name="title_counter">Compteur</string>
+
+    <!-- Accessibilité -->
     <string name="cd_decrement">Diminuer la valeur</string>
     <string name="cd_increment">Augmenter la valeur</string>
     <string name="cd_counter_value">Valeur actuelle : %1$d</string>
